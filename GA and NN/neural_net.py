@@ -123,8 +123,8 @@ class NeuralNetwork(object):
     size: list of number of neurons per layer
     Examples
     ---
-    >>> import NeuralNetwork
-    >>> nn = NeuralNetwork([2, 3, 4, 1])
+    # >>> import NeuralNetwork
+    # >>> nn = NeuralNetwork([2, 3, 4, 1])
 
     This means :
     1 input layer with 2 neurons
