@@ -1,3 +1,12 @@
+
+
+"""
+SEE neural_nets.ipynb NOTEBOOK FOR SOLUTIONS
+"""
+
+
+
+
 """
 Resources:
 * https://youtu.be/aircAruvnKk
